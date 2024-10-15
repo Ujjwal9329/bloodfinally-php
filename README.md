@@ -1,5 +1,3 @@
-![Screenshot (17)](https://github.com/user-attachments/assets/b7a72984-1301-4a95-ad8d-bea6301edaa8)# Blood-Bank-&-Donation-Management-System
-
 Blood Bank Donation System is a php based web project with both admin and user layouts.
 
      
@@ -17,11 +15,9 @@ Blood Bank Donation System is a php based web project with both admin and user l
 <h3> User Panel Images </h3>
 <br><b>1. Home Page 
    <br>
- ![Screenshot (17)](https://github.com/user-attachments/assets/5e37e232-3938-447d-9d10-249f8d4ba1e6)
 
 
-
-
+![Screenshot (17)](https://github.com/user-attachments/assets/a3f60f5b-da2c-4a06-affe-2b97a5829152)
 
    <br>
    <br>
