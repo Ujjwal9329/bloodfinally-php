@@ -22,15 +22,17 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <br>
    <br>
    2. About Us Page
-   <img src="https://user-images.githubusercontent.com/54537819/96301335-ac3cfb00-1014-11eb-84c1-092ddb1480e6.png">
+   ![Screenshot 2024-10-15 111119](https://github.com/user-attachments/assets/b2f5f0da-a4d1-404e-b83d-f3f63bac814c)
+
    <br>
    <br>
    3. Why Donate Blood Page
-   <img src="https://user-images.githubusercontent.com/54537819/96301343-af37eb80-1014-11eb-8aa8-35ad178ba3e7.png">
+   ![Screenshot 2024-10-15 111136](https://github.com/user-attachments/assets/3b35da2a-d82c-4a0a-be9e-6798cb7621c6)
    <br>
    <br>
    4. Become A Donor Page
-   <img src="https://user-images.githubusercontent.com/54537819/96301357-b3640900-1014-11eb-9956-c630873a396b.png">
+   ![Screenshot 2024-10-15 111146](https://github.com/user-attachments/assets/18f47e16-f809-45ba-b65f-04da0094dfc7)
+
    <br>
    <br>
    5. Need Blood Page
